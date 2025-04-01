@@ -1,5 +1,4 @@
-
-import type { Config } from "tailwindcss";
+/** @type {import('tailwindcss').Config}; */
 import colors from "tailwindcss/colors";
 import { createThemes } from "tw-colors";
 
