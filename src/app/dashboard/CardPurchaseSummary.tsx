@@ -31,7 +31,7 @@ const CardPurchaseSummary = () => {
           </div>
 
           {/* BODY */}
-          <div className="max-h-200 pb-1">
+          <div className="pb-1">
             {/* BODY HEADER */}
             <div className="mb-2 mt-3 px-7">
               <p className="text-xs text-gray-400">Purchased</p>
