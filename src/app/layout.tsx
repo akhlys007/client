@@ -1,5 +1,5 @@
 
-import DashboardWrapper from "@/app/dashboard/dashboardWrapper";
+import DashboardWrapper from "@/app/dashboardWrapper";
 import "@/app/globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
